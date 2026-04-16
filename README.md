@@ -20,6 +20,13 @@ Analyze how market sentiment affects trader behavior and performance.
 1. Increase participation during Fear periods
 2. Apply risk control during Greed periods
 
+## How to Run
+
+1. Download the datasets from the links in the data folder
+2. Place them in the same directory as the notebook
+3. Open notebooks/analysis.ipynb
+4. Run all cells
+
 ## Conclusion
 This analysis examined the relationship between market sentiment and trader behavior. Results show that traders perform better during Fear periods, with higher profitability, increased trading activity, and larger trade sizes. In contrast, Greed periods are associated with lower performance and reduced activity. Based on these findings, strategies should focus on increasing participation during Fear while applying risk control during Greed.
 
