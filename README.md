@@ -14,6 +14,7 @@ Analyze how market sentiment affects trader behavior and performance.
 1. Higher profitability during Fear periods
 2. Increased trading activity during Extreme Fear
 3. Larger trade sizes observed during Fear
+4. Traders appear to exhibit more reactive and aggressive behavior during Fear periods, leading to higher activity and profitability.
 
 ## Strategy Recommendations
 1. Increase participation during Fear periods
