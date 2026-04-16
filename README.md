@@ -22,3 +22,9 @@ Analyze how market sentiment affects trader behavior and performance.
 
 ## Conclusion
 This analysis examined the relationship between market sentiment and trader behavior. Results show that traders perform better during Fear periods, with higher profitability, increased trading activity, and larger trade sizes. In contrast, Greed periods are associated with lower performance and reduced activity. Based on these findings, strategies should focus on increasing participation during Fear while applying risk control during Greed.
+
+## Clustering
+Clustering revealed three distinct trader segments:
+1. High-value traders with high PnL and large trade sizes
+2. Consistent traders with moderate activity and returns
+3. Low-performing traders with lower activity and profitability
