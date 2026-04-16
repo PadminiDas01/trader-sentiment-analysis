@@ -7,7 +7,7 @@ Analyze how market sentiment affects trader behavior and performance.
 ## Methodology
 - Data cleaning and preprocessing
 - Merging sentiment with trading data
-- Feature engineering (PnL, trade count, trade size)
+- Key metrics (PnL, trade count, trade size, long-short ratio)
 - Comparative analysis across sentiment categories
 
 ## Key Insights
